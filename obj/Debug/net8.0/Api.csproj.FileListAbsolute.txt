@@ -1,0 +1,7 @@
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danny\Music\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
